@@ -1,7 +1,7 @@
 {
     "interval": 30000,
     "status": {
-      "type": "LISTENING",
+      "type": "STREAMING",
       "state": "{100} people.",
       "backup_state": "with {53} users",
       "url": "https://https://www.youtube.com/@9oasfrmdanhood"
